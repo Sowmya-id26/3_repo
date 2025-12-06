@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Tahoma, sans-serif;
+    padding: 22px;
+}
+
+textarea {
+    width: 97%;
+    min-height: 145px;
+    display: block;
+    font-size: 15px;
+    padding: 11px;
+    border: 1px solid #777;
+}
+
+.controls {
+    margin-top: 14px;
+}
+
+button {
+    margin-right: 12px;
+    padding: 9px 15px;
+    font-size: 14px;
+    background: #3a67e8;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    border: none;
+}
+
+button:hover {
+    background: #2d51b6;
+}
